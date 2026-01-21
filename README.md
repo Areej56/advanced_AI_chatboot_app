@@ -57,7 +57,7 @@ advanced_ai_chatbot/
 
 1️⃣ Clone the repository
 
-git clone https://github.com/Areej56/advanced-ai-chatbot.git
+git clone https://github.com/Areej56/advanced_AI_chatboot_app.git
 cd advanced-ai-chatbot
 
 2️⃣ Create a virtual environment (recommended)
